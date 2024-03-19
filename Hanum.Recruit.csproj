@@ -6,6 +6,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <RootNamespace>Hanum.Recruit</RootNamespace>
     <UserSecretsId>4bfc2b1d-e22a-48d4-9bc6-6c0f0bec052b</UserSecretsId>
+    <DockerfileContext>.</DockerfileContext>
     <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
     <GenerateDocumentationFile>True</GenerateDocumentationFile>
     <NoWarn>$(NoWarn);1591</NoWarn>
