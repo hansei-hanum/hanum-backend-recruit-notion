@@ -1,0 +1,13 @@
+.vs
+.vscode
+/bin/
+/obj/
+appsettings.Production.json
+appsettings.Development.json
+Properties/PublishProfiles
+/dummy/
+*.user
+
+.fake
+
+logs/
